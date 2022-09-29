@@ -120,7 +120,7 @@ body {
     background-color: rgb(234,234,234);
     /* top: 20px; */
     /* right: 5px; */
-    border-radius: 20%;
+    border-radius: 50%;
     cursor: pointer;
     transition: transform 0.5s;
   }
@@ -140,7 +140,7 @@ body {
     background-color: rgb(234,234,234);
     /* top: 20px; */
     /* right: 5px; */
-    border-radius: 20%;
+    border-radius: 50%;
     cursor: pointer;
     transition: transform 0.5s;
   }
